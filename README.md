@@ -30,15 +30,25 @@ Hi 👋 My name is Arb Koçi
 
 <a href="https://github.com/arbdoescode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbdoescode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!-- ## &#x1f4c8; GitHub Stats
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a> -->
+class ComputerEngineer:
+
+    def __init__(self):
+        self.name = "Arb Koçi"
+        self.role = "Computer Engineer"
+        self.language_spoken = ["English", "Albanian", "German", "Turkish"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = ComputerEngineer()
+me.say_hi()
+```
 
 <b>Top Repositories</b>
 
