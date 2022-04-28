@@ -26,10 +26,6 @@ Hi 👋 My name is Arb Koçi
 
 <p align="left"> <a href="https://www.github.com/arbdoescode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/arbkoci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<a href="https://github.com/arbdoescode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbdoescode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -50,11 +46,9 @@ me = ComputerEngineer()
 me.say_hi()
 ```
 
+### Badges
 
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/arbdoescode/Group6-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arbdoescode&repo=Group6-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arbdoescode/Quiz_Game_file_C" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arbdoescode&repo=Quiz_Game_file_C&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/arbdoescode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbdoescode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
