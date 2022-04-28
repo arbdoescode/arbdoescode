@@ -29,7 +29,6 @@ Hi 👋 My name is Arb Koçi
 ### Badges
 
 <a href="https://github.com/arbdoescode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbdoescode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
