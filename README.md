@@ -2,7 +2,8 @@ Hi 👋 My name is Arb Koçi
 =========================
 
 * 🌍  I'm based in Tirana, Albanian
-
+*  <p><em>Computer Enginner at <a href="https://www.epoka.edu.al/">Epoka University</a>
+</em></p>
 ### Skills
 
 <p align="left">
