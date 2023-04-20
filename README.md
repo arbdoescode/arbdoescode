@@ -1,7 +1,7 @@
 Hi 👋 My name is Arb Koçi
 =========================
 
-*  <p><em>Computer Enginner at <a href="https://www.epoka.edu.al/">Epoka University</a>
+*  <p><em>Graduate Computer Enginner at <a href="https://www.epoka.edu.al/">Epoka University</a>
 </em></p>
 *  <p><em>Senior Developer at UFT
 </em></p>
