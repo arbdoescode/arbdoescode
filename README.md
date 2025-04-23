@@ -40,7 +40,7 @@ class ComputerEngineer:
     def __init__(self):
         self.name = "Arb Koçi"
         self.role = "Computer Engineer"
-        self.language_spoken = ["English", "Albanian", "German", "Turkish"]
+        self.language_spoken = ["English", "Albanian", "German"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
